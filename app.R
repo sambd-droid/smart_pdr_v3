@@ -1,7 +1,7 @@
 # ==============================================================================
 # Project: Potential Denitrification Rate (PDR) – Shiny Web App
 # Published on: Posit Connect Cloud
-# Author: Dr. Md. Ataul Gani
+# Author: Biplob Biswash
 # ==============================================================================
 
 # -----------------------------
