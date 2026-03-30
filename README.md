@@ -2,7 +2,7 @@
 
 An interactive web-based application for estimating and visualizing **Potential Denitrification Rate (PDR)** using geospatial and environmental data.
 
----
+
 
 ## 📌 Overview
 
@@ -10,7 +10,7 @@ The **PDR Web App** is designed to analyze and map denitrification potential in 
 
 This application leverages **remote sensing data, raster analysis, and geospatial tools** to provide real-time insights through an intuitive interface.
 
----
+
 
 ## 🎯 Objectives
 
@@ -19,7 +19,7 @@ This application leverages **remote sensing data, raster analysis, and geospatia
 - Support environmental and agricultural decision-making
 - Provide an easy-to-use analytical platform
 
----
+
 
 ## 🚀 Features
 
@@ -30,7 +30,7 @@ This application leverages **remote sensing data, raster analysis, and geospatia
 - 🎛️ User-friendly Shiny dashboard
 - 📈 Real-time data interaction
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +40,7 @@ This application leverages **remote sensing data, raster analysis, and geospatia
 - **UI Design:** `bslib`  
 - **Deployment:** Posit Connect / Shiny Server  
 
----
+
 
 
 ## 🌐 Usage
